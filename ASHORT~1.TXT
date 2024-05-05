@@ -1,0 +1,25 @@
+
+
+    So my project is based on the idea of arranging books about skincare in a shelf of a bookstore. 
+
+
+    Basically, arranging the books in a shelf and the books are about skincare. 
+
+    This section of code refers to the Data / Information provided regarding the book:
+
+    " 
+    public Book (String name, String bookType, LocalDate publishedDate, double price, String authorName, String brand, String tag ){
+        this.name = name;
+        this.bookType = bookType;
+        this.publishedDate = publishedDate;
+        this.price = price;
+        this.authorName = authorName;
+        this.brand = brand;
+        this.tag = tag; ( the tag is whether the book was purchased or not and if customers are interested in the product or not)
+		                                      "
+											  
+											  
+		
+    Overall, 12 test cases has been created that runs successfully. 
+	
+	version Used is : 2022.1.2
